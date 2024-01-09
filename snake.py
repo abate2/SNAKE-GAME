@@ -23,6 +23,7 @@ clock = pygame.time.Clock()
 snake_head = [100, 0]
 snake_body = [[100, 0], [110, 0]]
 
+#functions
 def food():
   random_x = (random.randint(0, 79)) * 10
   random_y = (random.randint(0, 49)) * 10
