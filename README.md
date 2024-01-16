@@ -1,5 +1,4 @@
 # SNAKE-GAME
-https://github.com/abate2/SNAKE-GAME/blob/main/snake_game2.png
 
 Requirements to use the game
 1-It's needed python installed 
