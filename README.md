@@ -8,3 +8,4 @@ the program is a little free adaptation  of the  clasic snake game,
 every time that the snake took a fruit , take  the color of  that
 fruit to  itself and the fruit color changes I hope that  you can
 find out the game fun as I did. 
+![](https://github.com/abate2/SNAKE-GAME/blob/main/snake_game2.png)
